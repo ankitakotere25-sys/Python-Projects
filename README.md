@@ -82,7 +82,7 @@ The following models were used:
 
 ---
 
-##  Streamlit App (Optional)
+##  Streamlit App
 
 A web application was built using Streamlit to:
 
@@ -102,11 +102,7 @@ A web application was built using Streamlit to:
 └── README.md
 ```
 
----
 
-
-
----
 
 ##  Conclusion
 
